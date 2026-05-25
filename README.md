@@ -1,11 +1,8 @@
-# The Balanced Scorecard Process — DEV PREVIEW repo
+# The Balanced Scorecard Process
 
-> [!CAUTION]
-> **This is the DEV PREVIEW repository.** Content here is unstable and may change without notice.
->
-> The live production site is at <https://jgtittle-ministries.github.io/balanced-scorecard-process/> and lives in [`jgtittle-ministries/balanced-scorecard-process`](https://github.com/jgtittle-ministries/balanced-scorecard-process).
->
-> Dev preview site: <https://jgtittle-ministries.github.io/balanced-scorecard-process-dev/>
+The published source for the book *The Balanced Scorecard Process* by John G. Tittle.
+
+**Live site:** <https://jgtittle-ministries.github.io/balanced-scorecard-process/>
 
 ## What this is
 
@@ -28,6 +25,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to suggest changes, file issues
 ## License
 
 [CC BY-NC-SA 4.0](./LICENSE) — you may share and adapt the material with attribution, non-commercial use only, and same-license sharing.
+
+## Editing workflow
+
+Changes land first on the [dev repo](https://github.com/jgtittle-ministries/balanced-scorecard-process-dev) for review on the [dev preview site](https://jgtittle-ministries.github.io/balanced-scorecard-process-dev/), and are then mirrored here for the live site.
 
 ## Build
 

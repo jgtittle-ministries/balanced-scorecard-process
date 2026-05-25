@@ -1,14 +1,13 @@
-site_name: "The Balanced Scorecard Process — DEV PREVIEW"
-site_description: "[DEV PREVIEW] A book on a methodology for surfacing, measuring, and balancing the competing values an organization is actually operating under — by John G. Tittle"
+site_name: "The Balanced Scorecard Process"
+site_description: "A book on a methodology for surfacing, measuring, and balancing the competing values an organization is actually operating under — by John G. Tittle"
 site_author: John G. Tittle
-site_url: https://jgtittle-ministries.github.io/balanced-scorecard-process-dev/
-repo_url: https://github.com/jgtittle-ministries/balanced-scorecard-process-dev
-repo_name: jgtittle-ministries/balanced-scorecard-process-dev
+site_url: https://jgtittle-ministries.github.io/balanced-scorecard-process/
+repo_url: https://github.com/jgtittle-ministries/balanced-scorecard-process
+repo_name: jgtittle-ministries/balanced-scorecard-process
 edit_uri: edit/main/docs/
 
 theme:
   name: material
-  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.tracking

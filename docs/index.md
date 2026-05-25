@@ -1,11 +1,8 @@
 ---
-title: "The Balanced Scorecard Process (DEV PREVIEW)"
+title: "The Balanced Scorecard Process"
 ---
 
-!!! danger "YOU ARE VIEWING THE DEV PREVIEW SITE"
-    Content here is unstable and may change without notice. For the canonical reading copy, visit the [production site](https://jgtittle-ministries.github.io/balanced-scorecard-process/).
-
-# The Balanced Scorecard Process (DEV PREVIEW)
+# The Balanced Scorecard Process
 
 *A book on a methodology for surfacing, measuring, and balancing the competing values an organization is actually operating under.*
 
